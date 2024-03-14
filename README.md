@@ -47,9 +47,8 @@
 <!-- <div style="display: flex; justify-content: space-between;">
     <div><img align="left" src="https://github-readme-stats.vercel.app/api?username=developersbm&theme=buefy&hide_border=true"/></div>
     <div><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=developersbm&layout=compact&theme=buefy&hide_border=true" /></div>
+    ---- 
 </div> -->
-
----- 
 <div align = "center">
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=developersbm&theme=dark)
