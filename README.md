@@ -49,6 +49,6 @@
 ---- -->
 <div align = "center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=developersbm&theme=dark)]
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=developersbm&theme=dark)
 
 </div>
