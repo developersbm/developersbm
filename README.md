@@ -1,10 +1,10 @@
 ## Welcome to my GitHub, I'm [Sebastian Bastida Marin](https://github.com/developersbm)
 
 ## Projects
-
+- [FinanceBuddy](https://github.com/developersbm/FinanceBuddy-FinanceTracker)
+- [InsightfulLanterns](https://github.com/developersbm/InsightfulLantern)
 - [ImageReaderAI](https://developersbm.github.io/ImageReaderAI.html) 
 - [Classy (UE5 Game)](https://developersbm.github.io/Classy.html) 
-- [InsightfulLanterns](#)
 - [Flask DataBase Management](https://github.com/developersbm/DataBase-Management-Flask) 
 - [Personal Website](https://developersbm.github.io/)
 
