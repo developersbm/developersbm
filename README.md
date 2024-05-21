@@ -1,6 +1,7 @@
 ## Welcome to my GitHub, I'm [Sebastian Bastida Marin](https://github.com/developersbm)
 
 ## Projects
+- [Savor](https://github.com/developersbm/Savor) 
 - [FinanceBuddy](https://github.com/developersbm/FinanceBuddy-FinanceTracker)
 - [InsightfulLanterns](https://github.com/developersbm/InsightfulLantern)
 - [ImageReaderAI](https://developersbm.github.io/ImageReaderAI.html) 
