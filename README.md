@@ -6,25 +6,30 @@
 
 ![C++](https://img.shields.io/badge/C++-blue?logo=c%2B%2B&style=for-the-badge)&nbsp;
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&style=for-the-badge)&nbsp;
 ![HTML](https://img.shields.io/badge/HTML-orange?logo=html5&style=for-the-badge)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&style=for-the-badge)&nbsp;
+![SQL](https://img.shields.io/badge/SQL-blue?logo=database&style=for-the-badge)&nbsp;
 
-### Frameworks
+### Frameworks/Libraries
 
 ![ReactJS](https://img.shields.io/badge/-React.js-61DAFB?logo=react&logoColor=white&style=for-the-badge)&nbsp;
-![NextJS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)&nbsp;
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-blue?logo=google-cloud&logoColor=white&style=for-the-badge)&nbsp;
-![FireBase](https://img.shields.io/badge/Firebase-orange?logo=firebase&logoColor=white&style=for-the-badge)&nbsp;
-![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&style=for-the-badge)&nbsp;
+![React Native](https://img.shields.io/badge/React%20Native-61DAFB?logo=react&logoColor=white&style=for-the-badge)&nbsp;
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge)&nbsp;
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwindcss&logoColor=white&style=for-the-badge)&nbsp;
+![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white&style=for-the-badge)&nbsp;
+![Svelte](https://img.shields.io/badge/Svelte-FF3E00?logo=svelte&logoColor=white&style=for-the-badge)&nbsp;
 
 ### Technologies & Tools
 
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![UE5](https://img.shields.io/badge/Unreal%20Engine%205-grey?logo=unreal-engine&style=for-the-badge)&nbsp;
-![MongoDB](https://img.shields.io/badge/MongoDB-%238511FA.svg?style=for-the-badge&logo=mongodb&logoColor=white&color=darkgreen)
-![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-blue?logo=google-cloud&logoColor=white&style=for-the-badge)&nbsp;
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon&logoColor=white)&nbsp;
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&style=for-the-badge)&nbsp;
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visual-studio&style=for-the-badge)&nbsp;
+![MongoDB](https://img.shields.io/badge/MongoDB-%238511FA.svg?style=for-the-badge&logo=mongodb&logoColor=white&color=darkgreen)&nbsp;
+![Axios](https://img.shields.io/badge/Axios-5A29E4?logo=axios&style=for-the-badge)&nbsp;
+![Expo Go](https://img.shields.io/badge/Expo%20Go-000020?logo=expo&style=for-the-badge)&nbsp;
 
 ## Connect with me
 
@@ -37,11 +42,6 @@
 
 ## GitHub Stats
 
-<!-- <div style="display: flex; justify-content: space-between;">
-    <div><img align="left" src="https://github-readme-stats.vercel.app/api?username=developersbm&theme=buefy&hide_border=true"/></div>
-    <div><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=developersbm&layout=compact&theme=buefy&hide_border=true" /></div>
-    ---- 
-</div> -->
 <div align = "center">
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=developersbm&theme=dark)
