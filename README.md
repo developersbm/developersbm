@@ -3,7 +3,7 @@
 ## Skills
 
 ### Languages
-
+![C](https://img.shields.io/badge/C-555555?logo=c&style=for-the-badge&logoColor=white)&nbsp;
 ![C++](https://img.shields.io/badge/C++-blue?logo=c%2B%2B&style=for-the-badge)&nbsp;
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&style=for-the-badge)&nbsp;
@@ -13,6 +13,7 @@
 
 ### Frameworks/Libraries
 
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge)&nbsp;
 ![ReactJS](https://img.shields.io/badge/-React.js-61DAFB?logo=react&logoColor=white&style=for-the-badge)&nbsp;
 ![React Native](https://img.shields.io/badge/React%20Native-61DAFB?logo=react&logoColor=white&style=for-the-badge)&nbsp;
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge)&nbsp;
@@ -39,11 +40,3 @@
 [<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/sebastian-bastida/)
 
 </p>
-
-## GitHub Stats
-
-<div align = "center">
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=developersbm&theme=dark)
-
-</div>
